@@ -1,0 +1,2177 @@
+1	开幕典礼
+isbn	isbn
+concur/dissent	协同／不同意见
+notableworks	代表作
+country admin divisions title	{{{country admin divisions title}}}
+free_label_1	free_label_1
+free_label_2	free_label_2
+also known as	别名
+var5	var5
+var6	var6
+var3	var3
+var4	var4
+var1	var1
+var2	var2
+built for	建造用于
+silica (sio<sub>2</sub>)	二氧化硅（sio<sub>2</sub>）
+other candidates	其他候选人
+celebrations	活动
+train length	列车长度
+roller coasters	云霄飞车
+founder of	创始
+owners	持有者
+discovery	发现
+edition	届次
+organization	组织机构
+followed	followed
+leader_title	leader_title
+width across transepts	width across transepts
+skill(s) required	所需技巧
+generator	牵引发电机
+gdp per capita	人均gdp
+dances	舞蹈
+organizer	组织方
+minorplanet	minorplanet
+u.s.c. sections amended	法典修订
+sister newspapers	姊妹报纸
+memberships	所属协会
+founded by	创建者
+most homeruns hit	全垒打王
+first service	开行日期
+max. depth	最大深度
+team manager	球队经理
+major axis	长轴
+manuf1	manuf1
+wins by ko	因击倒对手而得胜
+editor_title	主编
+notable awards	奖项
+owner	拥有者
+countries	countries
+revenues	收入
+career winnings	职业奖金
+alias(es)	别名
+formation	设立
+air force	空军
+established	创立日期
+other links	其他连结
+paid circulation	实际发行量
+references	参考文献
+operator	管理者
+holiday	holiday
+nicknames	俗称
+number of members	议员人数
+no	发言人
+started by	起始
+ph	ph
+crew	摄像
+variations	菜色变化
+artist(s)	艺术家
+mission insignia	任务徽章
+iso2	iso2
+events	比赛项目
+uk	成立于
+station code	车站代码
+tv	tv
+to	韧带终点
+sp	sp
+reach	reach
+lang1	lang1
+lang3	lang3
+lang2	lang2
+course	上菜顺序
+parts_type	parts_type
+issn	issn
+next north	北站
+leading companies	公司
+president	president
+no. of nations	参赛国家
+offshore/onshore	离岸/陆上
+novels	小说
+docket nos.	诉讼记录号
+volcano	火山
+club	俱乐部
+occupation	工作
+officially closed by	赛会闭幕宣布者
+intl	净利润
+acts amended	法案修订
+best young player	最佳年轻球员
+sodium (na)	钠（na）
+notable locations	知名地点
+race victories	分站冠军
+former name	former name
+alternate name	其他名称
+imprint	关系分社
+television films	电视电影
+traffic	通行类别
+variant	关联产品
+car no.	车号
+population served	服务人群
+accessible	无障碍设施
+standard	标准
+grades_label	年级
+content license	内容许可
+last appearance	最后出现
+stat1label	stat1label
+final table(s)	决赛桌
+demonym	居民称谓
+left tributaries	左侧支流
+fabrication by	钢材生产商
+coat	coat
+pseudonym	化名
+place of origin	起源国家
+recorded	录制
+pledge	徽章
+structural engineer	施工结构
+available in	语言
+research type	研究性质
+period	创作时期
+cost	造价
+ipv6	ipv6
+nitrate (no<sub>3</sub>)	硝酸盐（no<sub>3</sub>）
+former coach(es)	前教练
+issue-link	子嗣
+ground(s)	主场
+starring	主演
+bandwidth	带宽
+high school	高中
+studio	工作室
+replaces	取代
+replaced	继任
+nearest_city	最近城市
+lifts/elevators	电梯数
+num_staff	雇员
+date of death	逝世日期
+risks	风险
+laterality	惯用手
+discipline titles	项目成绩
+controlled churches	教派
+officer in charge	主管官员
+qs_w	qs_w
+seats8_title	seats8_title
+number of gas chambers	毒气室数量
+sub grouping	亚分类
+native name	原名
+line number	地铁线编号
+first season	首个球季
+date opened	开幕日期
+notable ideas	著名思想
+subject	主题
+tv adaptations	相关电视节目
+design	图案
+extinction	废止时间
+designer(s)	设计者
+greco-roman	希罗式
+title	头衔
+verdict	裁决
+original source	最初来源
+award6	award6
+award5	award5
+award8	award8
+award7	award7
+award2	award2
+award1	award1
+award4	award4
+award3	award3
+awards	荣誉
+fighting out of	出道地点
+no. of teams	队伍数
+constellation	星座
+aliases	化名
+distance travelled	运行距离
+watercourse	水系
+nozzle ratio	喷嘴比
+reign-type	全名
+2008	2008年
+2009	2009年
+2006	2006年
+engine	engine
+acts repealed	法案废除
+constructed by	施工单位
+leader titles	leader titles
+service hours	车站代码
+riders per vehicle	每车乘坐人数
+trademark	商标
+related articles	相关条目
+draws	平手
+city	city
+highest world ranking	最高世界排名
+passengers	乘客
+homepage	homepage
+ambassador(s)	代理
+dissipated	消散日期
+senior editor(s)	总编辑
+year founded	创刊日期
+occur every	每隔
+underlies	上覆
+influences	受影响于
+active personnel	现役人数
+influenced	施影响于
+composition method	法官选任方式
+tyre suppliers	轮胎供应商
+estate	地产
+public transit	公共交通
+roman equivalent	在罗马神话
+former/other names	旧有/其他名称
+powertype	缸径×冲程
+fastest laps	最快圈速
+northern end	北起讫站点
+cyears2	cyears2
+cyears1	cyears1
+playing darts since	出道年份
+cyears7	cyears7
+cyears8	cyears8
+cyears9	cyears9
+water rides	水上设施
+cyears3	cyears3
+cyears4	cyears4
+cyears5	cyears5
+cyears6	cyears6
+tournament format	tournament format
+nrhp_type2	nrhp_type2
+gdp by sector	各产业gdp
+awards received	获奖
+preceded	preceded
+actual use	真正使用
+network	转播商
+record depth	record depth
+orbits	绕轨圈数
+head coach(es)	总教练
+lbl35	lbl35
+lbl32	lbl32
+lbl31	lbl31
+lbl33	lbl33
+publication	publication
+lbl22	lbl22
+lbl23	lbl23
+lbl21	lbl21
+lbl24	lbl24
+lbl25	lbl25
+case number	案件编号
+allowed characters in filenames	文件名字符集
+current location	现居地
+governance	政体
+source	来源
+ceremony venue	典礼场馆
+passenger traffic	客运
+races entered	完赛数
+offspring	子嗣
+cyears14	cyears14
+cyears15	cyears15
+cyears12	cyears12
+cyears13	cyears13
+cyears10	cyears10
+cyears11	cyears11
+cyears16	cyears16
+cyears17	cyears17
+most wins (driver)	最多胜（车手）
+lead position ends	首长卸任时间
+purpose	目的
+current form	当前组编
+hobbies	爱好
+county	county
+arwu_life	arwu_life
+split from	分裂自
+losses	败
+annual ridership	年客流量
+weight	weight
+office location	总部地点
+government	government
+fair play award	公平竞争奖
+entrances	洞口的数量
+days	days
+local authority	local authority
+awards and prizes	获奖
+mesh	mesh
+alias	别名
+region3	region3
+region2	region2
+region1	region1
+strength	成员人数
+region4	region4
+region5	region5
+region6	region6
+region7	region7
+region8	region8
+region9	region9
+closing ceremony	闭幕典礼
+first flight	首飞
+visitors	参观人数
+release date	推出日期
+entries	出赛次数
+highest scoring	最多入球
+no. of employees	雇员人数
+as of	如
+country leader title	{{{country leader title}}}
+confed	confed
+date completed	建成日期
+lowest elevation	最低海拔
+current champions	卫冕冠军
+catchment area	集水面积
+destinations	通航城市
+film(s)	电影
+promotion	升班至
+audio format	格式
+escutcheon	盾
+newspaper	党报
+most tries	达阵王
+train number(s)	车次
+first game	首个游戏
+spin states	自旋态
+body style	车型
+renovation cost	翻新造价
+data rate	数据速率
+period advantages	周期
+university	大学
+storage	储存空间
+riders	乘员
+deck	deck
+dean	院长
+frequency	波段
+memory	记忆体
+color	颜色
+chloride (cl<sup>−</sup>)	氯化物（cl<sup>−</sup>）
+congregations	教堂
+publisher	出版者
+published	出版时间
+completed	竣工日期
+commands	统率
+occupants	下辖单位
+abandoned	废弃
+liberated by	解放
+page count	总页数
+tournaments played	职业战绩
+items collected	藏品
+object	目的
+os family	作业系统家族
+closing date	关闭日期
+bad blocks	坏块
+display	显示
+dry weight	净重
+main	主要铁路
+product(s)	产品
+carries	承载
+preview	预览
+water depth	最大埋深
+seasons	赛季
+best ranking finish	best ranking finish
+industry	industry
+subscribers	订阅
+translation	translation
+head of government	政府首脑
+mass	重量
+offices held	官方职务
+creator(s)	作者
+average flow rate	平均流速
+banquet/ballroom	宴会厅/舞厅
+filmed by	摄像
+issues	期号
+product code	产品代号
+convictions	定罪
+money finish(es)	钱圈
+in use	使用时间
+state_type	州
+commander1_label	现任指挥官
+work begun	动工
+number of stores	商店数量
+number of drops	瀑布数
+other names	其他名称
+subsequent history	后续案件
+number of vehicles	列车总数
+writer(s)	故事
+dialects	方言
+arwu_w	arwu_w
+endowment	捐赠基金
+career points	生涯积分
+free_label	free_label
+characteristics	特色
+compiler	编辑
+colleges	学院
+alexa	alexa
+observation facilities	嘹望设施
+last service	停止营运
+disciplines	disciplines
+condensed	简明对称性
+earlier dedication	早期奉献
+participation	参赛选手
+concessions given	让步
+date	日期
+altitude	高度
+current affiliation date	现况
+main technologies or sub-processes	技术
+dedicated	奉献日期
+supporting character of	配角
+service number	军籍号码
+blank_name	blank_name
+freestyle	自由式
+seats7_title	seats7_title
+writings	著作
+designers	设计者
+teams	参赛队伍
+platforms	支援平台
+narrated by	旁白
+platformno	月台类型
+functional status	保护状况
+reserve personnel	备役人数
+nominator	提名者
+surpassed by	继任
+function	function
+drivers' championships	车手
+region_type	地区
+blocks	区
+also available for	亦提供给
+observances	风俗
+branches	branches
+garrison	派驻单位
+coach	教练
+blood type	血型
+head of state	国家元首
+former skating club	曾效力的俱乐部
+service	所服务机构
+last test	last test
+related brands	相关品牌
+mascot	mascot
+type of incident	事故类型
+latin	latin
+system(s)	方法
+originated as	起源自
+archbishop	大主教
+enthusiast	旗舰gpu
+conservation status	保护状态
+continentalcup3	continentalcup3
+continentalcup4	continentalcup4
+continentalcup1	continentalcup1
+continentalcup2	continentalcup2
+signature	签名
+contractor	contractor
+leaders	领导人
+enrollment	学生人数
+connection	连接
+ridership	平均载客量
+choir height	choir height
+vice-president	副校长
+individual wins	冠军
+regime	轨道类型
+prior history	既往案件
+died	逝世
+formation	设立
+region	区域
+news editor	新闻主编
+participating years	参赛年份
+event_type	项目
+video/movie recording	录像
+former names	前频道名称
+succeeded by	继承者
+relaunched	复刊日
+former name	former name
+rank	等级
+racquet used	装备
+first built	建造时间
+tenacity	韧性/脆性
+retired	退休
+latest meeting	最近对赛
+release date(s)	发行日期
+previous occupation	之前职业
+fatalities	死亡人数
+battle_honours_label	战斗荣誉
+significance	意义
+instrument_3_name	instrument_3_name
+max. length	最长范围
+alcohol by volume	酒精度
+nrhp reference #	nrhp编号
+transparent compression	透明压缩
+location	地点
+venue(s)	比赛场馆
+completion	完成于
+pop_density	pop_density
+student wing	学生组织
+battles and wars	战役、战争
+collecting area	集光面积
+represented by	代表
+random chance	运气成分
+title years	title years
+dissolved	停播日期
+cup3	cup3
+cup2	cup2
+cup5	cup5
+cup4	cup4
+radio programs	广播剧
+cup1	cup1
+cup6	cup6
+position	场上位置
+race	种族
+codename(s)	代号
+update method	更新方式
+seating arrangements	座席
+right tributaries	右侧支流
+introduced	推出
+number of films	电影数目
+convicted	定罪
+unit of	属于
+number of employees	雇员
+influenced by	受影响于
+argument	辩论
+type of site	网站类型
+captain	队长
+seats6_title	seats6_title
+structural system	结构系统
+lyrics	作词
+course(s)	球场
+baggage facilities	行李设施
+season	season
+college team	大学队
+olympic games	奥运会
+successor	successor
+made in	产地
+years12	years12
+years11	years11
+years10	years10
+years19	years19
+years18	years18
+years17	years17
+years16	years16
+years15	years15
+years14	years14
+years13	years13
+players	玩家数目
+classification	宗派
+main sponsor	main sponsor
+years20	years20
+certification	认证
+minister_title	部长
+signature	签名
+open to the public	公众开放
+frame	构架尺寸
+architectural styles	建筑风格
+ordination	晋铎
+coach(es)	总教练
+design firm	设计公司
+former partner(s)	前任搭档
+affiliated university	大学
+leader2_title	leader2_title
+other short titles	其他短称
+catering facilities	餐饮设施
+branch(es)	支流
+opposition_party	反对党
+basin	流经
+unpaid circulation	滞销量
+former editors	编辑
+construction	建设时间
+no. of tracks	轨道数量
+official language	官方语言
+country_type	国家
+engine suppliers	引擎供应商
+host city	举办城市
+safety systems	安全系统
+architectural type	建筑类型
+characters	系列角色
+stance	惯用手
+leader1_type	leader1_type
+procedural history	案件程序
+artist	艺术家
+name origin and meaning	名称起源 及含义
+number of teams	球队数目
+previous names	先前名称
+duration	时间
+builder	建造者
+legal status	地位
+born	出生
+displacement	排气量
+system length	系统长度
+association	协会
+first odi	first odi
+arwu_eng	arwu_eng
+first tournament	first tournament
+lake_type	水体体积
+modern name	今用名
+opening	开张日期
+festival date	举行日期
+chamber	燃烧室
+legislature term(s)	任期
+tracks	轨道数量
+placeofburial_label	安葬地点
+primary	主要
+primate	大主教
+directory contents	目录内容
+term limits	连任限制
+separations	分离
+latest version	版本
+file allocation	文件分配
+professional wins	职业胜场数
+literary movement	文学运动
+followed by	续作
+years of service	服役年份
+tibetan	藏文
+commissioner	commissioner
+college	就读大学
+number of species	物种
+notes	备注
+statistics	系
+members	成员
+opinion editor	社评编辑
+no. of seasons	季数
+other club(s) from	其他地区
+opening date	开幕日期
+size	尺寸
+catalog number	catalog number
+processor	处理晶片
+associations	组织
+tv partners	电视转播
+implementation language	implementation language
+mission statement	宗旨
+also called	别名
+status in legislature	司法状态
+vice-chancellor	校长
+genre(s)	类型
+date of birth	出生日期
+coached by	教练
+final entry	最后出赛
+no. of locations	据点数量
+education	教育程度
+power output	牵引功率
+aspiration	吸气方式
+picture format	picture format
+total sets	总套数
+elevation	标高
+dissolution	解体
+number of stations	车站数量
+construction engineer	工程师
+blog	博客
+peak year	高峰年份
+ski club	俱乐部
+other posts	其他职位
+longest drop	最大落差
+location	地点
+prior	前身
+application	目的
+runners-up	亚军
+music by	音乐
+conference	分区
+created by	创办人
+marketed by	销售
+previous gauge	previous gauge
+victims	受害者
+reference no.	来源 编号
+named for	地名渊源
+web address	网址
+released	发行日期
+camera setup	机位
+established_title	established_title
+bits	字长/暂存器资料宽度
+abilities	能力
+services engineer	服务工程
+relinquished	废止
+main industries	主要产业
+nations participating	参赛国家
+course type	赛场类型
+rear lcd monitor	lcd 显示器
+measurements	三围
+opposed to	对立
+instrument_7_name	instrument_7_name
+economic aid	经济援助
+designated date	指定时间
+successors	继承算法
+captured	被捕
+notable characters	知名人物
+image processor	图像处理器
+conferences	分区
+father	父亲
+southern end	南起讫站点
+highest ranking	最高排名
+academic staff	教师
+properties	属性
+completion date	完工日期
+early forms	早期形式
+notable members	主要成员
+origin	起源
+religion	信仰
+principal_label	校长
+abbreviation	简称
+debut	出道日期
+first race	第一场
+land area	陆地面积
+other occupation	其他职业
+category	类别
+heritage status	保护状况
+quotation	名言
+emblem(s)	队徽
+presidential nominee	总统候选人
+dancers	dancers
+first nuclear weapon test	首次核弹试验
+province	教省
+year of invention	发明年份
+dana classification	戴纳矿物分类
+voices	voices
+market share	市场份额
+from	韧带起点
+final ruler	最后统治
+suspension	suspension
+other designers	其他设计师
+dates of operation	营运日期
+seats	议员
+dates excavated	发掘日期
+rebuilt	重建
+wins	胜出
+arwu_med	arwu_med
+length of term	任期
+keydocument2	授权法源
+full case name	案件全名
+geographical range	地理范围
+number of records	number of records
+location	地点
+leader1_title	leader1_title
+spouse(s)	配偶
+olympics	olympics
+became	演变为
+playing time	游戏时间
+confederation	所属协会
+titles	titles
+distances	距离
+design engineer	工程设计
+beds	病床
+burial	葬于
+abandonment	废弃
+buried	葬于
+notable aliases	重要别名
+last t20i	last t20i
+annual generation	年发电量
+ownership	ownership
+viewfinder magnification	放大倍数
+cause of  death	死因
+governor	州长
+major junctions	主要接点
+average home league attendance	平均观众
+official site	官方网站
+role	功能
+arwu_sci	arwu_sci
+markets	目标市场
+treasurer	treasurer
+height	身高
+rolling stock	使用车辆
+roof	屋顶
+rows	列
+demolished	清拆
+active years	活跃年份
+value of cargo	货物价值
+launched	推出时间
+television series	电视剧
+no contests	未赛
+exports	出口
+network	转播商
+employer	单位
+primary languages	主要语言
+deployed personnel	部署人数
+defunct	废除
+constructors	赛车制造商
+date range	日期范围
+city_type	定居点
+bells	bells
+predecessor	predecessor
+date released	发表日期
+dns name	dns名称
+footnotes	脚注
+former choreographer	前任编舞指导
+most successful	most successful
+biggest home win	最大主场胜差
+chrtitle	chrtitle
+current head	现任家长
+base	所在地
+departure	离陆时间
+part of	隶属于
+genres	类型
+supplies	supplies
+combined total	总分
+drivers	车手
+produced by	制作人
+before statehood	建州前
+last nuclear test	最后一次核试
+cultures	文化
+mid-range	中端gpu
+relegation	降班至
+begins	开始日期
+operating season	开放时间
+formerly called	前称
+political_party	所属政党
+citizenship	公民权
+discovered	发掘于
+editor-in-chief	主编
+unofficial_users	流通货币
+symbol	符号
+previous name	先前名称
+ended operation	结束运作
+wheel diameter	轮径
+data structure	数据结构
+reports to	负责
+derived from	衍生自
+main import partners	主要进口伙伴
+first entry	首次出赛
+date of act	决定建设日期
+custom_label_1	custom_label_1
+custom_label_2	custom_label_2
+song	获胜曲
+criteria for collection	收藏标准
+stat2label	stat2label
+assembly	assembly
+production company(s)	制作公司
+retirements	退役
+relegated	降班
+governing body	管理部门
+caps	出场最多球员
+source model	源码模式
+shrines	朝圣地
+sport country	国籍
+parent department	上属机构
+girlfriend	女友
+countries	countries
+coin toss	掷硬币
+commander_title	参谋长
+non-fatal injuries	受伤人数
+date apprehended	抓捕日期
+total assets	总资产
+award(s)	所受奖励
+voting system	投票制度
+zip code	邮政编码
+manufacturer	制造商
+graphics	绘图
+last odi	last odi
+os_grid_reference	os_grid_reference
+composed by	composer
+instrument_8_name	instrument_8_name
+since	首长上任时间
+arwu_soc	arwu_soc
+prize money	奖金
+short stories	短篇小说
+sport	运动
+executive producer(s)	制作
+formerly	formerly
+podiums	领奖台
+color	颜色
+fields	研究领域
+most awards	获奖最多
+parishes	教区
+rector	校长
+trophy	奖杯
+previous_post	曾任职位
+present location	现存于
+commands held	统率
+online services	线上服务
+partners	合伙人
+total width	宽度
+school	学派
+start of development	开发
+deaths	死亡
+institutions	任职于
+instrument_1_name	instrument_1_name
+man_of_the_match1btitle	man_of_the_match1btitle
+service name	服务名称
+similar creatures	相似生物
+ballpark	ballpark
+developed	起源
+foundation	成立日期
+image sensor maker	图像传感器制造商
+developer	developers
+label	唱片公司
+script editor	剧本编辑
+boyfriend	男友
+created cardinal	任命枢机
+top speed	top speed
+magnesium (mg)	镁（mg）
+enlisted	策谋
+max temperature	最高温度
+feeder to	补充至
+international affiliation	国际组织
+commencement	生效日
+mvp	mvp
+address	地址
+division	部区
+personal best(s)	个人最佳成绩
+abolished	终止
+style	尊称
+allegiance	效忠
+closed	关闭
+comics	漫画
+patronage	主保
+editor(s)	剪辑
+product type	类型
+mgrtitle	mgrtitle
+size	尺寸
+main character(s)	主要角色
+flash	闪光灯
+disabled access	无障碍设施
+campus	校区
+spouse 2	妻子
+appointed	任命
+appointer	任命者
+weapon(s)	项目
+receipts	竞选捐款
+expansion team(s)	扩张队伍
+image_coa	image_coa
+building	建筑
+tv partner(s)	电视转播
+earlier versions	之前版本
+fleet size	车队规模
+head coach	主教练
+design based on	设计依据
+world standing	世界排名
+main venue	主场馆
+initial release	初始版本
+running time	每集长度
+subdivision_type	subdivision_type
+floor area	建筑面积
+best era	防御率王
+highest winds	最高风速
+total islands	岛屿数
+width	宽度
+density	密度
+chancellor	校监
+clinic review	医师诊断
+record	赛绩
+budget	预算
+impact	冲击
+school district	地区
+piers	直码头
+world height ranking	世界落差排名
+shore length<sup>1</sup>	岸长<sup>1</sup>
+dome height (outer)	穹顶高度（外侧）
+branch	branch
+writer	词曲
+penalty	刑罚
+philosophy	哲学
+succession	继任
+tournament format(s)	赛制
+versioning	版本
+headquarters location	总部
+sports fielded	队伍人数
+ordained	授予圣职
+major exhibits	主要展览
+dimension	尺寸
+stations	车站
+foaled	出生
+choreographer	编舞指导
+spelling	贸易组织
+added to nrhp	收录日期
+career title(s)	冠军头衔
+affiliation	国际组织
+postgraduates	研究生
+bicycles	自由车
+distinctions	殊勋
+speed_mph	speed_mph
+class	分类
+identification_symbol_2_label	二式佩章
+developer(s)	开发者
+heritage designation	保护单位
+written by	编剧
+written in	编程语言
+end point	终点
+largestcity	largestcity
+facilities	设施
+number of temples	庙宇数量
+added	列名时间
+engine type	发动机
+sire	父系
+site	地点
+affiliated with	相关人物
+movies	电影
+government	government
+mission duration	任务时长
+projects	项目
+etymology	词源
+speed	速度
+bicarbonate (hco<sub>3</sub>)	碳酸氢盐（hco<sub>3</sub>）
+active	活动年代
+causes	起因
+export goods	出口货品
+founder(s)	创办人
+original work	最初作品
+most doubles titles	最多双打头衔
+company slogan	公司口号
+area_km2	area_km2
+original title	原名
+managed by	管理者
+designation	designation
+population	人口
+articulations	关节
+darts	用镖
+seats4_title	seats4_title
+potassium (k)	钾（k）
+jurist term ends	法官卸任时间
+optical properties	光学性质
+fastest lap	最快圈速
+prime mover	传动装置
+designations	指定
+chair	主席
+other name	其它名称
+excavation dates	发掘时间
+total	总计
+discharge	平均流量
+team manager(s)	赛事总监
+vehicles per day	每日车流量
+diseasesdb	diseasesdb
+available berths	现有泊位
+top scorer	最多得分
+country of origin	国家
+theatre seating	剧场座椅
+providers	providers
+resort type	度假村类型
+top scorer	最多得分
+spire height	尖塔高度
+branding	品牌
+settlements	周边城市
+dates	比赛日期
+telescope style	望远镜类型
+credit expiry	有效期限
+precursor	前身
+mythology	神话
+trains	列车
+proper name	正式名称
+compartment	基地
+best result	最佳成绩
+depth	深度
+seat	所在地
+territory	区域
+number of bars	酒吧数量
+commander-in-chief_title	最高统帅
+sect	教派
+torse	花圈
+material	材质
+top goalscorer	最佳射手
+thrust	推力
+man of the match	man_of_the_match1atitle
+camera	camera
+current region	现分布
+capacity	载客量
+status	状态
+wavelength	波段
+home world	世界
+consecration	晋牧
+official language(s)	官方语言
+teacher(s)	师傅
+event type	项目种类
+audience capacity	观众人数
+starts	起步
+main stadium	比赛场馆
+spire	尖塔
+next time	日期
+spike	扣球高度
+birth control type	生育控制种类
+architect(s)	建筑师
+women's doubles	女子
+derivative forms	延伸曲风
+host(s)	主持
+first use	初次使用日期
+nonus	着色师
+period/culture	时期或古文明
+size of harbor	大小
+women	女子
+champions	冠军
+prev series years	prev series years
+broadcasters	broadcasters
+service/branch	军种
+field size	草坪面积
+touchpad	触控板
+ranking	积分排名赛
+web site	官方网站
+target	目标
+longest tunnel	最长隧道
+established events	established events
+burn time	燃烧时间
+member of	组织成员
+contracted lead designer	首席设计师
+dress size	女装尺码
+facebook	facebook
+past bishop(s)	重要前主教
+mill location	风车位置
+lowest attendance	最少观众
+habitat	习性
+publication date	出版日期
+axle load	轴重
+former member(s)	过往成员
+total fatalities	总死亡事故
+base(s)	基地
+controversy	相关议题
+screened on	播出
+batteries	动力
+locale	营运地区
+translation	translation
+time period	使用时期
+catalogue	商品类型
+number of words	词汇数
+most wins	最多获胜
+referee	裁判
+legacy	成就
+theme	主题
+notable people	主要人物
+river sources	河流源
+animation by	动画
+battery	电池
+establishment	建立
+area served	服务范围
+former training locations	以前的训练地点
+max. number of files	最大文件数量
+technology	技术
+domestic suppliers	本国供应商
+identification_symbol_4_label	四式佩章
+non-ranking	非积分排名赛
+composer(s)	作曲
+date resolution	日期分辨率
+open	开幕
+most points	得分最多球员
+largest cities	最大城市
+demolition date	拆除
+electrified	电气化方式
+matches played	比赛场数
+assistants	助理教练
+discontinued	停产日期
+ceased	解散
+title as saint	圣人称号
+expenses	支出
+screenplay by	萤幕剧本
+most stolen bases	盗垒王
+publications	出版物
+built	施工
+pop. density	人口密度
+net income	净收入
+motion capture	动作演员
+coronation	谥号
+instrument_2_name	instrument_2_name
+official religion	信仰
+gdp growth	gdp增长
+start	起始
+intended use	预期使用
+annual imports	年进口
+seats5_title	seats5_title
+injuries	受伤
+original owner	最初运营者
+number	球员号码
+headquarters	总部
+access requirements	借阅凭证
+postal_codes	postal_codes
+technical director	技术指导
+staff	职员人数
+photo editor	摄影编辑
+titles amended	法卷修订
+perfect use	完美使用
+charges	指控
+former operator(s)	前营运商
+publication types	出版类型
+first rally	第一次参赛
+number of restaurants	餐厅数量
+breeder	生产者
+creator	创造者
+largest metro	最大都会区
+general contractor	总承包商
+eyes	眼睛
+opening ceremony	开幕典礼
+runners-up	亚军
+viewership	viewership
+import goods	进口货品
+divisions	级别
+venues	场馆
+vessel arrivals	靠港船只
+date created	创造日期
+imports	进口
+codename	codename
+editors	编辑
+date founded	创建时间
+construction started	起造日期
+collapsed	毁坏日期
+last rally	最后一次参赛
+began skating	出道
+team affiliations	所属团队
+walk-on music	过场音乐
+quantity surveyor	工料测量师
+rated at	分级
+instruments	乐器
+unions	协会
+billed height	身高
+captain(s)	队长
+leader4_title	leader4_title
+extinction	废止时间
+production company	公司
+pricing model	售价
+production	production
+patron	冠名自
+class1	class1
+disbanded	解散日期
+annual visitors	每年游客人数
+first awarded	首次颁发
+discovery site	发现地
+<nowiki />	时区
+seat1_type	seat1_type
+illustrator	插图
+visitation	参观人数
+history	历史
+turnedpro_type	转为全职
+major islands	主要岛屿
+most strikeouts (as pitcher)	三振王
+dates recorded	日期记录
+manager	manager
+current occupation	目前职业
+included with	内置系统
+previous owners	前任持有者
+merger of	合并自
+alternative name(s)	其他名称
+cooling system	冷却系统
+dissent	不同意见
+affiliations	隶属
+contributions	贡献
+categories	类别
+languages	语言
+maintained by	管理
+temporal coverage	temporal coverage
+pinyin	汉语拼音
+area_code_type	area_code_type
+instrument_6_name	instrument_6_name
+geology	地质
+lap record	最快圈速
+transmission	transmission
+stops	中途停站
+sister systems	姊妹书写系统
+other name(s)	其他名称
+official website	官方网站
+setup time	准备时间
+personal best	个人最佳成绩
+instrument_4_name	instrument_4_name
+sports editor	体育编辑
+composers	音乐
+controller input	控制器输入
+curation policy	管理政策
+spouse	配偶
+redistricting	重划选区
+grade	坡度
+town or city	市镇
+partnerships	伙伴关系
+operators	运营商
+first holder	首任
+gauge	轨距
+next meeting	即将对赛
+founded title	成立时间
+march	队歌
+literary works	文学作品
+remarks	注释
+tender weight	煤水车重量
+omim	omim
+general manager	总经理
+most capped player	最多上阵球员
+estimated gas in place	预计天然气储量（十亿立方米）
+prior history	既往案件
+former coach	前任教练
+associate editor	副主编
+number of clusters	星系团数目
+baptised	受洗
+professional	职业生涯
+ends	结束日期
+territorial extent	适用地
+launch date	开播日期
+union	协会
+uci code	uci代码
+channel	频道
+responsible body	管理者
+political position	政治立场
+fit for military service	适合服役人数
+past commanders	历任指挥官
+video format	视频格式
+twitter	twitter
+thes_n	thes_n
+thes_w	thes_w
+number of animals	动物数量
+sound	音效
+champions	冠军
+organizations	组织
+volume	体积
+story by	故事标签
+earnings	奖金
+main export partners	主要出口伙伴
+original music	原创音乐
+quashed	撤销
+seats1_title	seats1_title
+syndicates	同步转播
+ending theme	片尾曲
+date(s)	日期
+first issue	首发日期
+principal engineer	主要工程师
+profession	职业
+materials	结构
+stadium	体育场
+connected families	相关家族
+area of operations	活动地区
+cause of death	死因
+anthem	anthem
+area rank	面积排名
+fuel	燃料系统
+associated people	重要相关人物
+discovered by	发现者
+latest release	最新作
+susperps	嫌疑犯
+highest elevation	最高海拔
+security class	安全级别
+designated	制定
+track gauge	轨距
+associated l/v	associated l/v
+documents	相关文件
+armiger	使用者
+cost of 30-second commercial	30秒广告价
+riders per row	每列乘坐人数
+start point	起点
+max. file size	最大文件尺寸
+first event	首届赛事
+sources	分类 （来源）
+currently	现任
+voices by	配音
+marital status	婚姻状况
+voices of	配音
+most games	出场最多球员
+structure	车站类型
+translator	译者
+valvetrain	配气机构
+theology	神学
+annual budget	年度预算额
+postal code	邮政编码
+torque	torque
+favorite	赔率
+design date	设计时间
+handedness	握拍
+blank4_name	blank4_name
+director	主管
+biggest away win	最大作客胜差
+title(s)	冠军头衔
+website	网址
+archaeologists	考古学家
+address	地址
+connectivity	连接介面
+classroom-style seating	教室式座位
+player of the series	最佳球员
+attraction type	设施类型
+high-end	高端
+team	队伍
+american	american
+property damage	财产损失
+date dissolved	解体
+units sold	销售台数
+instrument_5_name	instrument_5_name
+finished last season	最后赛季
+turns	弯道
+fuel type	燃料
+language(s)	语言
+anniversaries	纪念日
+boiler pressure	锅炉压力
+engines	引擎
+flavor	口味
+sponsor	赞助商
+urban	市区
+home town	家乡
+controlled by	运营单位
+inquest	审讯
+previous	前任
+scoring leader(s)	得分王
+weapon	武器
+named by	命名
+input	输入
+national coach(es)	国家队教练
+hazards	危害
+addresses	地址
+total attendance	总入场观众
+school or tradition	学派/学说
+final holder	末任
+current status	现状
+chairman	chairman
+feedstock	原料
+major	major
+based in	根据地
+absorbed	吸收
+species	种族
+dedicated date	时间
+director(s)	导演
+consort	王后
+athletics	校队
+footnotes	脚注
+methods	方法
+most titles (male)	最多头衔（男子）
+average speed	平均速度
+area	面积
+formed	形成日期
+services	服务路线
+renovated	重修
+best player	最佳球员
+residence	住所
+first meeting	首次对赛
+to	韧带终点
+total eva time	eva时间
+copyright	版权
+managing editors	执行主编
+gender	性别
+start date	开始日期
+employees	雇员
+genre	类型
+seats3_title	seats3_title
+youthclubs3	youthclubs3
+youthclubs2	youthclubs2
+training locations	目前的训练地点
+surface area	表面积
+nearest city	最近城市
+periods	周期
+unofficial user(s)	流通货币
+time	时间
+year of current production of gas	年份
+census yr	census yr
+most player appearances	上阵次数最多
+platform	平台
+format	格式
+peak	山峰
+allies	盟友
+number of lines	路线数量
+maker	制造商
+site area	占地面积
+closing film	闭幕电影
+flag	旗帜
+sponsors	承建商
+course records	course records
+unicode alias	书写方向
+operation(s)	参与行动
+no. of episodes	集数
+vehicles	车辆数量
+campaign	竞选
+no. of books	数量
+notable books	有关书籍
+pets	宠物
+colourist	着色师
+type of format	格式
+number of issues	发行期数
+administrator	administrator
+main contractor	主承包商
+deputy	副手
+toll	收费
+promoted	升班
+color process	色彩处理
+trained by	指导教练
+major operators	主要运营商
+thrust (vac.)	推力（真空）
+nuclear program start date	核武研究计划始于
+lowest pressure	最低气压
+country2	country2
+units shipped	出货台数
+battles	战斗
+billed weight	体重
+league(s)	联盟
+dependencies	属国
+load limit	最大负载
+process type	类型
+tour	tour
+original air date	首播日期
+max. filename length	最长文件名
+superintendent	监管
+group	类别
+features	特色
+total fights	总比赛数
+satellite of	环绕对象
+featured music	配乐
+collar	领码
+population_blank2_title	population_blank2_title
+playing position	位置
+national affiliation	国内组织
+auto recharge	自动储值
+production code	制作代码
+sub&#8209;themes	子系列
+titles/honours	头衔
+headquarter	headquarter
+circuit length	赛道长度
+ethnic group	民族
+language	语言
+preceding1	preceding1
+child systems	子书写系统
+salary	薪资
+instrument_10_name	instrument_10_name
+planet	planet
+colors	colors
+reversibility	可逆性
+ceased operations	终止运营
+alumni	alumni
+current commander	现任指挥官
+cap	最多帽子
+children	子女
+reference	编号
+annual cargo tonnage	年货物吨位
+bus	卫星平台
+inker(s)	钢笔画
+grandsire	祖父
+created from	前身
+resting place	埋葬地
+assistant coach(es)	助理教练
+first published	首次发布
+preceded by	前作
+staff writers	作者群
+number of letters	字母数
+prize fund	总奖金
+main interests	专注领域
+main contractors	主承包商
+career record	职业战绩
+value	面值
+resides	现居地
+annual revenue	年收入
+update frequency	update frequency
+best finish	最佳成绩
+card rank (highest to lowest)	牌的大小(由大至小)
+date closed	关闭日期
+subsequent history	后续案件
+aum	资产管理规模
+presented by	主持
+podium finishes	颁奖台
+brightest member	最亮天体
+constituting instrument	法律文件
+product family	产品家族
+litigation	起诉
+case type	案件类型
+nationality of parties	双方国籍
+temperature	温度
+construction began	动工
+sleeping arrangements	卧舖
+borders on	边界
+borough	镇区
+total number of ministers	成员总数
+mouth	河口
+long title	全称
+fourth place	第四名
+original language(s)	语言
+invented by	发明者
+goals	目标
+editor	编辑
+uk	成立于
+distinct fellowships	区分
+first described by	首次使用
+first reported	第一次报导
+related products	类似产品
+birth name	出生时姓名
+construction begin	开工日期
+nickname(s)	外号
+total points	总积分
+from	韧带起点
+former name(s)	原名
+portrayed by	真人演员
+distributed by	发行商
+period disadvantages	周期
+longest losing run	最长连败
+operating speed	设计通过速度
+fans	fans
+former country(ies) represented	曾代表的国家
+publication type	收录小说类型
+fate	结局
+founded	创办
+slogan	口号
+largest yield test	测试的最大当量
+founder	创造者
+track owner(s)	路权拥有者
+previous denomination	previous denomination
+place of death	逝世地点
+family	家族
+original channel	首播频道
+previous cathedrals	previous cathedrals
+examples	举例
+team_colors	球队颜色
+equipment_label	装备
+commission date	开始运转
+nationality	国籍
+signature_type	签名
+membership_year	统计日期
+inquiries	询问
+settlements	周边城市
+reward	奖励
+judges	评委
+other elements	其他元素
+inventor	发明者
+longest span	最大跨度
+wheelbase	wheelbase
+alters to	alters to
+related competitions	相关赛事
+full_name	full_name
+average journey time	运行时间
+ipa	ipa
+other designations	其他名称
+years active	活跃年份
+cor-type	加冕
+total length	总长度
+free dance	自由舞
+parking	停车位
+floor count	层数
+league	league
+type of harbor	类型
+date formed	建立日期
+label6	label6
+label5	label5
+label4	label4
+labels	唱片公司
+label1	label1
+label2	label2
+label3	label3
+director	主管
+best batting average	打击王
+length	长度
+access	访问
+judge term length	法官任期
+type of rock	岩石类型
+regulated by	管理机构
+broadcaster	频道
+authority	authority
+penciller(s)	铅笔画
+music	配乐
+archdiocese	总教区
+country (sports)	国籍
+type	类型
+claim to fame	claim to fame
+edited by	剪辑
+image size	图像尺寸
+lighting	lighting
+gpu	gpu
+extensions	其他
+coin_article	硬币
+tagline	口号
+focus	目标
+lord	统治者
+min temperature	最低温度
+copyleft	copyleft
+crosses	跨越
+website url	网站
+route	道路
+team principal(s)	车队主席
+leader_name	leader_name
+defending champions	卫冕冠军
+line length	路线长度
+population_blank1_title	population_blank1_title
+field	球员数或队数
+hair_colour	发色
+contractors	contractors
+time zones	时区
+opponents	对手
+ethnicity	民族
+first test	first test
+years of minting	铸造年份
+capital	首都
+groundbreaking	动工
+owntitle	拥有者
+last race	最后一场
+locks	闸门
+distributor	发行公司
+organisers	主办单位
+schedule	周期
+expanded	扩建
+total tests	核试总数
+highest point	最高点
+original dance	创编舞
+era	时代
+diaphaneity	透明性
+end	end
+commenced operations	开始运营
+records set	纪录集
+highest fifa ranking	最高fifa排名
+debut season	出道赛季
+films	电影
+athletes participating	参赛运动员
+podcast	播客
+discipline	项目
+total fatalities	总死亡事故
+image sensor type	图像传感器类型
+current team	所属球队
+air dates	播出日期
+budget_year	预算
+inclination	倾角
+namelabel1	namelabel1
+district	区域
+main facilities	装置
+effective	生效
+letterer(s)	文字书写
+world heritage site	世界遗产地
+host	主持人
+leader_title1	leader_title1
+leader_title4	leader_title4
+leader_title2	leader_title2
+leader_title3	leader_title3
+typical use	一般使用
+motive	动机
+dam	母系
+eye_colour	瞳色
+format coverage	format coverage
+home	故乡
+cut	入围
+main ingredients	主要成分
+current stockpile (usable and not)	核弹头当前贮量
+opening film	开幕电影
+cpu	cpu
+owned by	拥有者
+country represented	代表国家
+decorations	奖章
+operational	运行时间
+ceo	执行长
+foreign suppliers	外国供应商
+leader5_title	leader5_title
+folded	结束年份
+head_label	head_label
+head union	领导
+pronunciation	发音
+series	系列
+outcome	结果
+user reminders	注意事项
+first appearance	初次登场
+power consumption	功耗
+no. of offices	分所数目
+assistant	assistant
+selection	参与
+first time	首次时间
+deputy head of government	副政府首脑
+ethnic groups	民族
+other	次要
+geographic location	地理位置
+important associated figures	重要人物
+architecture	建筑风格
+description	描述
+country	国家
+operator(s)	营运单位
+rpm	转速
+garrison_label	驻地
+launch site	发射地点
+tournament	tournament
+related shows	相关节目
+producer(s)	制作
+serving temperature	上菜温度
+date of first use	启用日期
+head	head
+media	媒体
+scoreboard	计分牌
+tractive effort	牵引力
+championships	联盟冠军
+partner	搭档
+time in space	太空时间
+removed from nrhp	除名日期
+measurement	尺寸
+sex	性别
+career titles	冠军头衔
+thrust (sl)	推力（海平面）
+church	教会
+top scorer(s)	神射手
+runtime	每集时长
+deposition	废位
+plurality	多元意见
+hosted by	主持人
+overall titles	overall titles
+rooms	客房数
+cover artist	封面绘图
+otherlabel1	otherlabel1
+died	逝世
+levels	层
+award years	award years
+major sites	代表遗址
+retirement	退役日期
+orientation	方向
+political alignment	政治立场
+ceased publication	停刊日
+suspect(s)	嫌疑犯
+number of floors	层数
+products	产品
+seats2_title	seats2_title
+ideology	意识形态
+play	玩的方向
+identification_symbol_3_label	三式佩章
+variants	其他样式
+next south	南站
+buildings	建筑
+entry-level	低端gpu
+full name	姓名
+designed by	美术设定
+majority	多数意见
+system transfers	转运系统
+political_status	political_status
+development status	开发状态
+cadet branches	分支
+frame coverage	画面覆盖率
+missions	任务
+theme song	主题曲
+now coaching	现在执教
+channel name	频道名称
+chamber pressure	燃烧室压力
+killed	致死数
+artists	美术
+other dimensions	其他尺寸
+main_organ	主要机构
+hand	手
+introductory price	单价
+archipelago	所属群岛
+goals scored	总入球数
+time zone	时区
+established_date	established_date
+connects to	接续
+tradition or genre	传统/学派
+range_lat_d	坐标
+trainer	练马师
+slogan	口号
+field of research	研究领域
+trenches	海沟
+coordinates	坐标
+state size	state size
+most valuable player	最有价值球员
+test drivers	测试车手
+event name	event name
+email	e-mail
+exposure modes	曝光模式
+noc	noc
+tyres	轮胎
+medals	奖牌
+most titles (female)	最多头衔（女子）
+doctoral students	博士生
+boat-passable	通航能力
+most singles titles	最多单打头衔
+mottos	格言
+administrator(s)	管理机构
+type	类型
+type2	type2
+current status	现状
+types	类型
+key people	重要人物
+destination	目的地
+inmates	囚犯
+provost	教务长
+vice presidential nominee	副总统候选人
+winner's share	冠军将金
+real name	本名
+progression	注入
+year of current production of oil	年份
+produced	生产时间
+producer	制作人
+highest attendance	最多观众
+wharfs	码头
+ground	容纳人数
+jointhost1	jointhost1
+company	公司
+management	控制系统
+current operator(s)	营运商
+most nominations	提名最多
+faculty	教师人数
+client	委托人
+bond angle(s)	键角
+current club	所属俱乐部
+feast day	纪念日
+man_of_the_match2btitle	man_of_the_match2btitle
+sculptor	雕塑者
+minister2_name	隶属部长
+master	master
+main characters	主要人物
+backgrounds by	背景
+fia grade	等级
+video games	电子游戏
+designer	设计师
+announcer	制作助理
+focus	目标
+orbital	轨道
+nrhp_type	nrhp_type
+industrial sector(s)	工业部门
+inaugural holder	首任
+discovery date	发现日期
+men	男子
+venue	场地
+notable commanders	著名指挥官
+man_of_the_match2atitle	man_of_the_match2atitle
+suites	套房类型
+project manager	项目经理
+mps	mps
+waterway	水道
+mvp	mvp
+founders	founders
+location(s)	外景
+promotions	所属联盟
+power	power
+coord_display	coord_display
+event	大赛名称
+components	components
+dome height (inner)	穹顶高度（内侧）
+areas	区域
+orders	勋章
+terminus_b	terminus_b
+terminus_a	terminus_a
+budget(s)	预算
+nonfiction topics	非小说类主题
+arena	球馆
+leader3_title	leader3_title
+opening theme	片头曲
+subject	主题
+parent house	先前王室
+design life	设计寿命
+track length	轨道长度
+magazines	杂志
+race drivers	主车手
+benefits	好处
+top floor	最高楼层
+current champion	current champion
+download url	下载地址
+races	赛事
+circuit	circuit
+edge	边缘
+developers	开发
+banknote_article	纸币
+managing agency	管理机构
+conviction(s)	定罪
+criteria	标准
+extinct	extinct
+most championships	最成功球队
+editing by	剪辑
+home station	频道
+child2_agency	下设机关
+most premierships	最成功优胜队
+base of operations	根据地
+creative director(s)	创意总监
+block	拦网高度
+total views	合共点击率
+attack type	形式
+annual exports	年出口
+rail line	路线
+date invented	研发日期
+plays	持拍
+area served	服务范围
+accused	被告
+coat of arms	纹章
+publisher(s)	发行商
+chinese	chinese
+next tournament	next tournament
+began operation	开始运营
+parents	父母
+agency	后继机构
+axle load class	轴重等级
+inherent abilities	能力
+region or state	地区
+average depth	平均深度
+beginning date	动工日期
+operating bases	操作基地
+class wins	级别胜利
+active	活动年代
+turned pro	转职业年
+first occupied	启用
+other themes	主题曲
+architectural style(s)	建筑样式
+number of suites	套房数量
+most wins (manufacturer)	最多胜（制造商）
+district	区域
+major practice areas	主要执业领域
+coroner	验尸官
+missing	失踪者
+web	web
+stage wins	赛段胜利
+blank1_name	blank1_name
+height restriction	身高限制
+total height	高度
+hair	发色
+hotel chain	连锁酒店
+candidate	候选人
+result	结局
+grouping	分类
+currency	货币
+built by	建造者
+author	作者
+longest winning run	最长连胜
+record attendance	人数纪录
+service branches	军事部门
+related	related
+venerated in	尊者
+box office	票房
+mission type	任务类型
+maximum missile range	导弹最远射程
+attendance	上座率
+use	使用
+lbl5	lbl5
+lbl4	lbl4
+lbl3	lbl3
+lbl2	lbl2
+lbl1	lbl1
+percent of gdp	占gdp百分比
+total prize money	总奖金
+established_title3	established_title3
+established_title2	established_title2
+established_title1	established_title1
+unit	部队
+leagues	联赛
+principal	校长
+number of inmates	囚犯人数
+laps	圈数
+named after	命名依据
+skating club	俱乐部
+extent	范围
+concurrence	协同意见
+books	书籍
+musicals	音乐剧
+comp. dance	规定舞
+most titles	夺冠最多
+teams participating	参赛队伍
+deputyminister2_name	隶属副部长
+architect	建筑师
+election(s)	选举
+original use	原用途
+first head	领导人
+line used	运行经由
+cinematography	摄影
+rounds	重复回数
+visitors per annum	每年访客
+lowest fifa ranking	最低fifa排名
+third place	季军
+working state	运作状态
+completed date	建造时间
+years2	years2
+years3	years3
+years4	years3
+years1	years1
+years9	years9
+years8	years8
+years7	years7
+years6	years6
+system	系统
+operated by	运营者
+former partner	前任搭档
+chief executive	执行长
+reestablished	重建
+earlier spellings	早期拼写
+inventor(s)	发明者
+minor planet category	小行星分类
+reference to legal mandate	授权法源
+line	铁路线
+thickness	厚度
+longitude	静止经度
+alma mater	母校
+students	学生
+former teams	前任车队
+branch of	隶属于
+recording studio	录制地
+civil engineer	土木工程师
+max. volume size	最大卷容量
+cause	原因
+mother	母亲
+longest unbeaten run	最长不败
+shown here	如图所示
+established	创立日期
+successful competition design	获得奖项
+weather	天气
+registry	注册
+directors	主任
+constructors' championships	车队
+created	所属年代
+nickname	绰号
+stat3label	stat3label
+topped-out	封顶日期
+number of positions	法官人数
+dimensions	dimensions
+difficulty	困难度
+revenue	收入
+host railroads	host railroads
+military age	服役年龄
+writers	编剧
+battles_label	参与战役
+operating agency	主管机构
+freight	货运量
+subdivision_type3	subdivision_type3
+subdivision_type2	subdivision_type2
+subdivision_type1	subdivision_type1
+overlies	下伏
+relatives	亲属
+funding	资金
+uses	使用
+user	用户数
+mean radius	平均半径
+construction end	竣工日期
+stdtitle	stdtitle
+disestablished	拆除
+lifespan	存在时间
+house1	house1
+inaugural season	首个赛季
+total_type	人口
+no. of series	季数
+instrument_9_name	instrument_9_name
+marketing target	市场取向
+administrative staff	行政人员
+number of lanes	车道数量
+average attendance	平均观众
+directed by	导演
+shoe size	鞋码
+official name	正式名称
+other information	其他信息
+seat_type	seat_type
+home stadium	主场
+architectural style	建筑风格
+ingredients	原料
+classes	级别
+calcium (ca)	钙（ca）
+dispute policies	争议政策
+relations	亲属
+nations	参赛国家/地区
+distance	距离
+related items	相关事物
+identification	编号
+adopted	启用
+flight origin	起飞地
+engineer	工程师
+surface	地况
+navigation authority	运营者
+range	探测距离
+media type	介质
+service frequency	营运模式
+term length	任期
+ranks	军阶
+max. width	最宽范围
+animated series	动画
+publishers	发行
+observed by	参与者
+published in	收录于
+alternative names	其他名称
+district_type	地区
+print title	print title
+equatorial rotation velocity	赤道自转速度
+cards	牌的数量
+colours	colours
+participants	同伙
+director of music	director of music
+standards	标准
+distribution	distribution
+exec. producer(s)	总监制
+orbits per day	日环绕数
+engineering design by	设计单位
+vehicle type	车辆种类
+associated with	有关者
+length	长度
+writing	文字
+dynasty	王朝
+mouth elevation	河口海拔
+crest	冠饰
+siblings	兄弟姐妹
+bogie	转向架
+car number	车号
+chassis	底盘
+new session started	当前任期
+meetings total	对赛次数
+first	首次
+current ranking	现今排名
+place of birth	出生地点
+region12	region12
+region11	region11
+region14	region14
+region13	region13
+region10	region10
+region19	region19
+region16	region16
+region15	region15
+region18	region18
+region17	region17
+region25	region25
+region24	region24
+region23	region23
+region22	region22
+region21	region21
+region20	region20
+public law	制定者
+region29	region29
+region28	region28
+region27	region27
+region26	region26
+region30	region30
+region32	region32
+region31	region31
+available for military service	可用人数
+guru	古鲁
+diameter	直径
+damsire	外祖父
+network(s) (us)	播出频道（美国）
+rallies	出赛次数
+host nation	主办国
+weight gain	体重是否会增加
+direction	direction
+medal_type	季军
