@@ -17,6 +17,8 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.xml.sax.SAXException;
 
+
+
 public class Extraction {
 	//Picard : 10 sec
 	//Français : 45 min
@@ -24,48 +26,25 @@ public class Extraction {
 
 	public static void main(String[] args) throws IOException, InterruptedException {
 		//Delete all files
-		FileWriter out = new FileWriter("article-outlink.xml", false);
+		FileWriter out = new FileWriter("property_frequency.xml", false);
 		out.close();
-		out = new FileWriter("article-infobox.xml", false);
-		out.close();
-		out = new FileWriter("article-category.xml", false);
-		out.close();
-		out = new FileWriter("category-parent.xml", false);
-		out.close();
+		long tStart = System.currentTimeMillis();
+	    long tStop;
 		
-		File input = new File("dump/pcdwiki.xml");
+		File input = new File("article-infobox.xml");
 		BufferedReader br = new BufferedReader(new FileReader(input));
 	    String line;
-	    boolean page=false;
-	    ArrayList<String> body = new ArrayList<String>();
-	    List<Thread> threads = new ArrayList<Thread>();
-	    int counter=0;
 	    
-	    long tStart = System.currentTimeMillis();
-	    long tStop;
-	    
+	    String expression="";
 	    while ((line = br.readLine()) != null) {
-	       if(line.contains("<page>"))
-	    	   page = true;
-	       else if(line.contains("</page>"))	{
-	    	   page = false;
-	    	   Thread t = new Thread(new Article(body));
-	    	   t.start();
-	    	   threads.add(t);
-	    	   counter++;
-	    	   body = new ArrayList<String>();
-	    	   if(counter%100==0) {
-		    	   tStop = System.currentTimeMillis();
-		    	   System.out.println("Article parsed : " + counter + " out of " + (tStop - tStart) + " ms");
-	    	   }
-	       }
-	       else if(page==true)
-	    	   body.add(line+"\n");
-	       
+	    	expression += line;
 	    }
-	    for (Thread t : threads)
-	    	t.join();
-
+	    PropertyList list = new PropertyList(expression);
+	    list.getProperties();
+	    tStop = System.currentTimeMillis();
+	    System.out.println("total time : " + (tStop - tStart) + " ms");
+	    
+	    
 	
 	
 
