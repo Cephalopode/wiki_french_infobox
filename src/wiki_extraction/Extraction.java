@@ -2,6 +2,7 @@ package wiki_extraction;
 
 import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -20,9 +21,6 @@ import org.xml.sax.SAXException;
 
 
 public class Extraction {
-	//Picard : 10 sec
-	//Français : 45 min
-	//Anglais : 2h50
 
 	public static void main(String[] args) throws IOException, InterruptedException {
 		//Delete all files
@@ -31,7 +29,24 @@ public class Extraction {
 		long tStart = System.currentTimeMillis();
 	    long tStop;
 		
-		File input = new File("article-infobox.xml");
+		String infobox = readFile("article-infobox.xml");
+	    PropertyList list = new PropertyList(infobox);
+	    list.getProperties();
+	    list.displaySet();
+	    
+	    String category = readFile("article-category.xml");
+	    PropertyList list2 = new PropertyList(category);
+	    list2.getCategories();
+	    //list2.displaySet();
+	    
+	    
+	    tStop = System.currentTimeMillis();
+	    System.out.println("total time : " + (tStop - tStart) + " ms");
+
+
+	}
+	public static String readFile(String file) throws IOException {
+		File input = new File(file);
 		BufferedReader br = new BufferedReader(new FileReader(input));
 	    String line;
 	    
@@ -39,16 +54,8 @@ public class Extraction {
 	    while ((line = br.readLine()) != null) {
 	    	expression += line;
 	    }
-	    PropertyList list = new PropertyList(expression);
-	    list.getProperties();
-	    tStop = System.currentTimeMillis();
-	    System.out.println("total time : " + (tStop - tStart) + " ms");
-	    
-	    
-	
-	
-
-}
+	    return expression;
+	}
 
 	
 
