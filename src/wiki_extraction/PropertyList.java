@@ -17,7 +17,7 @@ public class PropertyList {
 		articles = new HashMap<String,HashSet<String>>();
 		body=body_;
 	}
-	public void getProperties() {
+	public HashMap<String,HashSet<String>> getProperties() {
 		final Matcher article = Pattern.compile("(?:::::::;|^)(.+?)\\s{5}(.+?)(?=::::::;|$)").matcher(body);
 		while(article.find()) {
 			HashSet<String> properties = new HashSet<String>();
@@ -28,9 +28,9 @@ public class PropertyList {
 			}
 			articles.put(article.group(1),properties);
 		}
-		
+		return articles;
 	}
-	public void getCategories() {
+	public HashMap<String,HashSet<String>> getCategories() {
 		final Matcher article = Pattern.compile("(?::;|^)(.+?)\\s{5}(.*?)(?=:;)").matcher(body);
 		while(article.find()) {
 			final Matcher category = Pattern.compile("(.+?);").matcher(article.group(2));
@@ -40,6 +40,7 @@ public class PropertyList {
 			}
 			articles.put(article.group(1),categories);
 		}
+		return articles;
 		
 	}
 	public void displaySet() {

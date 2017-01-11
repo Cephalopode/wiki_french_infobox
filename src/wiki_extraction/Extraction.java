@@ -30,14 +30,16 @@ public class Extraction {
 	    long tStop;
 		
 		String infobox = readFile("article-infobox.xml");
-	    PropertyList list = new PropertyList(infobox);
-	    list.getProperties();
-	    list.displaySet();
+	    PropertyList listProp = new PropertyList(infobox);
+	    listProp.getProperties();
+	    //listProp.displaySet();
 	    
 	    String category = readFile("article-category.xml");
-	    PropertyList list2 = new PropertyList(category);
-	    list2.getCategories();
-	    //list2.displaySet();
+	    PropertyList listCat = new PropertyList(category);
+	    listCat.getCategories();
+	    //listCat.displaySet();
+	    AssociationList listAss = new AssociationList(listProp.getProperties(),listCat.getCategories());
+	    listAss.createAssociation();
 	    
 	    
 	    tStop = System.currentTimeMillis();
