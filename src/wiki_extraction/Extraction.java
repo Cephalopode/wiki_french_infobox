@@ -24,22 +24,34 @@ public class Extraction {
 
 	public static void main(String[] args) throws IOException, InterruptedException {
 		//Delete all files
-		FileWriter out = new FileWriter("property_frequency.xml", false);
+		FileWriter out = new FileWriter("count_per_category.xml", false);
 		out.close();
+		FileWriter out2 = new FileWriter("value_per_article.xml", false);
+		out2.close();
 		long tStart = System.currentTimeMillis();
 	    long tStop;
 		
+	  //=========== PART 1 =============
+	    //create objects from xml files
 		String infobox = readFile("article-infobox.xml");
 	    PropertyList listProp = new PropertyList(infobox);
 	    listProp.getProperties();
-	    //listProp.displaySet();
-	    
+	    //listProp.displaySet(false);
 	    String category = readFile("article-category.xml");
 	    PropertyList listCat = new PropertyList(category);
 	    listCat.getCategories();
-	    //listCat.displaySet();
+	    //listCat.displaySet(false);
+	    //Create list with number of appearance in each category, for each existing property
 	    AssociationList listAss = new AssociationList(listProp.getProperties(),listCat.getCategories());
 	    listAss.createAssociation();
+	    
+	    //=========== PART 2 =============
+	    PropertyList listPropVal = new PropertyList(infobox);
+	    listPropVal.getProperties2values();
+	    //listPropVal.displaySet(true);
+	    //Create a list with value in each article, for each existing category
+	    AssociationList listAssVal = new AssociationList(listPropVal.getProperties2values());
+	    listAssVal.createAssociationVal();
 	    
 	    
 	    tStop = System.currentTimeMillis();
