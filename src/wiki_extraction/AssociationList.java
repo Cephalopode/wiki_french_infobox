@@ -34,12 +34,9 @@ public class AssociationList {
 	    	  Map.Entry me = (Map.Entry)i.next();
 	    	  HashSet<String> propSet = properties.get(me.getKey());
 	    	  HashSet<String> catSet = categories.get(me.getKey());
-    		  //System.out.println(me.getKey().toString());
-    		  System.out.println(me.getKey());
+	    	  
 	    	  
 	    	  for(String prop : propSet) {
-
-    			
 	    		  HashMap<String, Integer> catFreq_total;
 	    		  if(association.get(prop)==null) 
 	    			  catFreq_total=new HashMap<String, Integer>();
@@ -54,17 +51,41 @@ public class AssociationList {
     			  }
     			  catFreq_total.putAll(catFreq_total);
     			  association.put(prop, catFreq_total);
-	    		  
-	   
 	    	  }
-	    	  
 	      }
 	      
-	   display(false, true);
-	      
-	      
-	   //System.out.println(association.toString());
-	   System.out.println("prop : " + properties.size() + ", cat : " + categories.size() + ", ass : " + association.size());
+	   display(2, true);
+	   System.out.println("prop : " + properties.size() + ", cat : " + categories.size());
+	  System.out.println("ass : " + association.size());
+	}
+	public void createAssociationReverse() throws IOException {
+	      Set set = properties.entrySet();
+	      Iterator i = set.iterator();
+	      while(i.hasNext()) {
+	    	  Map.Entry me = (Map.Entry)i.next();
+	    	  HashSet<String> propSet = properties.get(me.getKey());
+	    	  HashSet<String> catSet = categories.get(me.getKey());
+	    	  
+	    	  
+	    	  for(String cat : catSet) {
+	    		  HashMap<String, Integer> propFreq_total;
+	    		  if(association.get(cat)==null) 
+	    			  propFreq_total=new HashMap<String, Integer>();
+	    		  else {
+	    			  propFreq_total = association.get(cat);
+	    		  }
+    			  for(String prop : propSet) {
+    				  if(propFreq_total.containsKey(prop))
+    					  propFreq_total.put(prop, propFreq_total.get(prop)+1);
+    				  else
+    					  propFreq_total.put(prop, 1);
+    			  }
+    			  propFreq_total.putAll(propFreq_total);
+    			  association.put(cat, propFreq_total);
+	    	  }
+	      }
+	      System.out.println("prop : " + properties.size() + ", cat : " + categories.size());
+	      display(1,true);
 	}
 	public void createAssociationVal() throws IOException {
 		
@@ -86,20 +107,22 @@ public class AssociationList {
 	    		}
 	    	}
 	    }
-	 display(true,true);
+	 display(0,true);
 		
 	}
-	private void display(boolean withValue, boolean save) throws IOException {
+	private void display(int file, boolean save) throws IOException {
 		
 		FileWriter out;
-		if(withValue)
+		if(file==0)
 			out = new FileWriter("value_per_article.xml", false);
+		else if(file==1)
+			out = new FileWriter("count_per_property.xml", false);
 		else
 			out = new FileWriter("count_per_category.xml", false);
 		
 		// Get a set of the entries
 		Set disp;
-		if(withValue)
+		if(file==0)
 	      disp = assoc_val.entrySet();
 		else
 			disp = association.entrySet();

@@ -35,19 +35,20 @@ public class Extraction {
 	    //create objects from xml files
 		String infobox = readFile("article-infobox.xml");
 	    PropertyList listProp = new PropertyList(infobox);
-	    listProp.getProperties();
+	    //listProp.getProperties();
 	    //listProp.displaySet(false);
 	    String category = readFile("article-category.xml");
 	    PropertyList listCat = new PropertyList(category);
-	    listCat.getCategories();
+	    //listCat.getCategories();
 	    //listCat.displaySet(false);
 	    //Create list with number of appearance in each category, for each existing property
 	    AssociationList listAss = new AssociationList(listProp.getProperties(),listCat.getCategories());
 	    listAss.createAssociation();
+	    listAss.createAssociationReverse();
 	    
 	    //=========== PART 2 =============
 	    PropertyList listPropVal = new PropertyList(infobox);
-	    listPropVal.getProperties2values();
+	    //listPropVal.getProperties2values();
 	    //listPropVal.displaySet(true);
 	    //Create a list with value in each article, for each existing category
 	    AssociationList listAssVal = new AssociationList(listPropVal.getProperties2values());

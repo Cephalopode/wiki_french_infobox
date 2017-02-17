@@ -56,7 +56,6 @@ public class PropertyList {
 			HashMap<String, String> properties = new HashMap<String,String>();
 			final Matcher property = Pattern.compile("(?:::::;|:::::)(.+?)::::=(.*?)(?=::::;)").matcher(article.group(2));
 			while(property.find()) {
-				System.out.println(property.group(1));
 				properties.put(property.group(1), property.group(2));
 			}
 			articles_val.put(article.group(1),properties);
