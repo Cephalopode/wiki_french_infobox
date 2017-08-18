@@ -12,13 +12,15 @@ import java.util.Set;
 //output : a map of properties to the articles where they appear and their occurencices number
 public class AssociationList {
 	HashMap<String,HashSet<String>> properties, categories;
+	HashMap<String,Integer> articles_count;
 	HashMap<String,HashMap<String, Integer>> association;
 	HashMap<String,HashMap<String, String>> properties_val;
 	HashMap<String,HashMap<String, String>> assoc_val;
 
-	public AssociationList(HashMap properties_, HashMap categories_) {
+	public AssociationList(HashMap properties_, HashMap categories_, HashMap articles_count_) {
 		properties = properties_;
 		categories = categories_;
+		articles_count = articles_count_;
 		association = new HashMap<String,HashMap<String, Integer>>();
 	}
 	public AssociationList(HashMap<String,HashMap<String, String>> properties_val_) {
@@ -43,15 +45,30 @@ public class AssociationList {
 	    		  else {
 	    			  catFreq_total = association.get(prop);
 	    		  }
-    			  for(String cat : catSet) {
-    				  if(catFreq_total.containsKey(cat))
-    					  catFreq_total.put(cat, catFreq_total.get(cat)+1);
-    				  else
-    					  catFreq_total.put(cat, 1);
-    			  }
-    			  catFreq_total.putAll(catFreq_total);
-    			  association.put(prop, catFreq_total);
+	    		  if(catSet != null) {
+	    			  for(String cat : catSet) {
+	    				  if(catFreq_total.containsKey(cat))
+	    					  catFreq_total.put(cat, catFreq_total.get(cat) + 1);
+	    				  else
+	    					  catFreq_total.put(cat, 1);
+	    			  }
+	    			  catFreq_total.putAll(catFreq_total);
+	    			  association.put(prop, catFreq_total);
+	    		  }
 	    	  }
+	      }
+	      // Divide all count values (m) by total number of entities in the concept (n)
+	      Set ass_prop = association.entrySet();
+	      // Get an iterator
+	      Iterator j = ass_prop.iterator();
+	      while(j.hasNext()) {
+	    	  Map.Entry me = (Map.Entry)j.next();
+	    	  HashMap<String, Integer> catMap = association.get(me.getKey());
+	    	  for(Map.Entry<String, Integer> catEntry : catMap.entrySet()) {
+	    		  int n = articles_count.get(catEntry.getKey());
+	    		  catMap.put(catEntry.getKey(), catEntry.getValue()*1000 / n);
+	    	  }
+	    	  association.put(me.getKey().toString(), catMap);
 	      }
 	      
 	   display(2, true);
@@ -66,22 +83,23 @@ public class AssociationList {
 	    	  HashSet<String> propSet = properties.get(me.getKey());
 	    	  HashSet<String> catSet = categories.get(me.getKey());
 	    	  
-	    	  
-	    	  for(String cat : catSet) {
-	    		  HashMap<String, Integer> propFreq_total;
-	    		  if(association.get(cat)==null) 
-	    			  propFreq_total=new HashMap<String, Integer>();
-	    		  else {
-	    			  propFreq_total = association.get(cat);
-	    		  }
-    			  for(String prop : propSet) {
-    				  if(propFreq_total.containsKey(prop))
-    					  propFreq_total.put(prop, propFreq_total.get(prop)+1);
-    				  else
-    					  propFreq_total.put(prop, 1);
-    			  }
-    			  propFreq_total.putAll(propFreq_total);
-    			  association.put(cat, propFreq_total);
+	    	  if (catSet !=null) {
+		    	  for(String cat : catSet) {
+		    		  HashMap<String, Integer> propFreq_total;
+		    		  if(association.get(cat)==null) 
+		    			  propFreq_total=new HashMap<String, Integer>();
+		    		  else {
+		    			  propFreq_total = association.get(cat);
+		    		  }
+	    			  for(String prop : propSet) {
+	    				  if(propFreq_total.containsKey(prop))
+	    					  propFreq_total.put(prop, propFreq_total.get(prop) + 1);
+	    				  else
+	    					  propFreq_total.put(prop, 1);
+	    			  }
+	    			  propFreq_total.putAll(propFreq_total);
+	    			  association.put(cat, propFreq_total);
+		    	  }
 	    	  }
 	      }
 	      System.out.println("prop : " + properties.size() + ", cat : " + categories.size());
@@ -117,8 +135,10 @@ public class AssociationList {
 			out = new FileWriter("value_per_article.xml", false);
 		else if(file==1)
 			out = new FileWriter("count_per_property.xml", false);
-		else
+		else if(file==2)
 			out = new FileWriter("count_per_category.xml", false);
+		else
+			out = null;
 		
 		// Get a set of the entries
 		Set disp;

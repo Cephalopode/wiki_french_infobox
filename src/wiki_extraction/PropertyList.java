@@ -12,15 +12,18 @@ import java.util.regex.Pattern;
 //input : xml file from article_infobox and article_category
 //outputs :
 //getProperties a hashmap with every article mapped to its properties
+//getNbArticlesPerCat returns a hashmap with every cateory mapped to the # of articles it contains. getCategories must be run beforehand to construct "article"
 //getCategories returns a hashmap with every article mapped to its categories
 //getProperties2values returns a hashmap with every article mapped to its properties + values
 public class PropertyList {
 	HashMap<String,HashSet<String>> articles;
+	HashMap<String,Integer> articles_count;
 	HashMap<String,HashMap<String, String>> articles_val;
 	String body;
 	
 	public PropertyList(String body_) {
 		articles = new HashMap<String,HashSet<String>>();
+		articles_count = new HashMap<String, Integer>();
 		articles_val = new HashMap<String,HashMap<String,String>>();
 		body=body_;
 	}
@@ -36,6 +39,19 @@ public class PropertyList {
 			articles.put(article.group(1),properties);
 		}
 		return articles;
+	}
+	public HashMap<String, Integer> getNbArticlesPerCat() {
+		articles_count = new HashMap<String,Integer>();
+		for(Map.Entry<String,HashSet<String>> catEntry : articles.entrySet()) {
+			for(String cat : catEntry.getValue()) {
+				if(articles_count.containsKey(cat))
+					articles_count.put(cat, articles_count.get(cat) + 1);
+				else
+					articles_count.put(cat, 1);
+			}
+		}
+			
+		return articles_count;
 	}
 	public HashMap<String,HashSet<String>> getCategories() {
 		final Matcher article = Pattern.compile("(?::;|^)(.+?)\\s{5}(.*?)(?=:;)").matcher(body);
@@ -62,13 +78,17 @@ public class PropertyList {
 		}
 		return articles_val;
 	}
-	public void displaySet(boolean withValue) {
+	public void displaySet(String objectToDisplay) {
 		 // Get a set of the entries
 		Set set;
-		if(withValue)
+		if(objectToDisplay == "articles_val")
 			set = articles_val.entrySet();
-		else
+		else if(objectToDisplay == "articles")
 	      set = articles.entrySet();
+		else if(objectToDisplay == "articles_count")
+			set = articles_count.entrySet();
+		else
+			set = null;
 	      // Get an iterator
 	      Iterator i = set.iterator();
 	      
